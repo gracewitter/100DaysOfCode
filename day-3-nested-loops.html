@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <title></title>
+    
+    <body>
+        <script>
+            let groceryList = ['orange juice', 'bananas', 'coffee beans', 'brown rice', 'pasta', 'coconut oil', 'plantains'];
+            let itemsOnSale = ['coffee beans', 'pasta', 'plantains'];
+            let buyItNow = [];
+            
+            for (let i = 0; i < groceryList.length; i++){
+                for (let j = 0; j < itemsOnSale.length; j++){
+                    if (groceryList[i] === itemsOnSale[j]){
+                        buyItNow.push(itemsOnSale[j]);
+                    }
+                }
+            };
+            
+            for (i = 0; i < buyItNow.length; i++){
+                console.log(buyItNow[i]);
+            }
+        </script>
+    </body>
+</html>
