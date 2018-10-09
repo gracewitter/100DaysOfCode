@@ -33,3 +33,12 @@
 
 **Link(s) to work**
 1. [day 3 functions practice](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/day-3-nested-loops.html)
+
+### Day 5 9/10/18
+
+**Today's Progress**: CodeCademy and anki deck, about halfway through rock paper scissors project
+
+**Thoughts** I learned about .reduce(), .findIndex(), .filter(), .map(), .forEach(), and .some(). I felt very mentally stuck with the project and felt it was best to take a break after the hour was finished rather than push through.
+
+**Link(s) to work**
+1. [day 4 Project: rock paper scissors](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/day-3-nested-loops.html)
