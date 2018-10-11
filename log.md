@@ -41,4 +41,22 @@
 **Thoughts** I learned about .reduce(), .findIndex(), .filter(), .map(), .forEach(), and .some(). I felt very mentally stuck with the project and felt it was best to take a break after the hour was finished rather than push through.
 
 **Link(s) to work**
-1. [day 4 Project: rock paper scissors](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/day-3-nested-loops.html)
+1. [day 5/6 Project: rock paper scissors](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/day-3-nested-loops.html)
+
+### Day 6 10/10/18
+
+**Today's Progress**: Finished rock paper scissors project
+
+**Thoughts** Wow it felt so good to see that thing run in the console! I feel so excited, but I know that this is really a very basic project and I need practice a lot more until I can do these things easily
+
+**Link(s) to work**
+1. [day 5/6 Project: rock paper scissors](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/day-3-nested-loops.html)
+
+### Day 7 11/10/18
+
+**Today's Progress**: Finished Applied Accesibility and Responsive Web Design in freeCodeCamp
+
+**Thoughts** I started this hour really very late and decided to avoid getting sucked into another project and caught up on some freeCodeCamp instead
+
+**Link(s) to work**
+Nothing to show for today
