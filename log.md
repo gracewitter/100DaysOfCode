@@ -60,3 +60,20 @@
 
 **Link(s) to work**
 Nothing to show for today
+
+### Day 8 12/10/18
+
+**Today's Progress**: Skipped work today. Was feeling too sick and tired to do anything.
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 9 13/10/18
+
+**Today's Progress**: Finished CSS Flexbox, CSS Grid, and the Tribute Page project from Free Code Camp
+
+**Thoughts** I felt really good to get back into things and working on a project. I have a lot of ideas for the next one, a survey form.
+
+**Link(s) to work**
+[FCC Tribute Page Project] (https://codepen.io/gracewitter/pen/pxWgxo)
