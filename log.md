@@ -77,3 +77,21 @@ Nothing to show for today
 
 **Link(s) to work**
 [FCC Tribute Page Project] (https://codepen.io/gracewitter/pen/pxWgxo)
+
+### Day 10 14/10/18
+
+**Today's Progress**: Finished Anki decks. Worked on survey form project and Duckett book
+
+**Thoughts** Feeling good about what I did today, happy with survey form so far
+
+**Link(s) to work**
+[FCC Survey Form Project] (https://codepen.io/gracewitter/pen/pxWgBJ)
+
+### Day 11 15/10/18
+
+**Today's Progress**: Finished anki decks, mostly finished survey form
+
+**Thoughts** getting the javascript to work was tricky for me and I had to go back to the tutorial quite a lot, but i'm happy with it. just have to finish the styles now 
+
+**Link(s) to work**
+[FCC Survey Form Project] (https://codepen.io/gracewitter/pen/pxWgBJ)
