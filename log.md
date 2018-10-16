@@ -95,3 +95,19 @@ Nothing to show for today
 
 **Link(s) to work**
 [FCC Survey Form Project] (https://codepen.io/gracewitter/pen/pxWgBJ)
+
+### Day 12 16/10/18
+
+**Today's Progress**: Finished anki decks, survey form, codecademy lesson
+
+**Thoughts** happy that the form is finally done and that I put in some solid work 
+
+**Link(s) to work**
+[FCC Survey Form Project] (### Day 11 15/10/18
+
+**Today's Progress**: Finished anki decks, mostly finished survey form
+
+**Thoughts** getting the javascript to work was tricky for me and I had to go back to the tutorial quite a lot, but i'm happy with it. just have to finish the styles now 
+
+**Link(s) to work**
+[FCC Survey Form Project] (https://codepen.io/gracewitter/pen/pxWgBJ))
