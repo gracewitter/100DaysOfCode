@@ -103,11 +103,13 @@ Nothing to show for today
 **Thoughts** happy that the form is finally done and that I put in some solid work 
 
 **Link(s) to work**
-[FCC Survey Form Project] (### Day 11 15/10/18
+[FCC Survey Form Project] (https://codepen.io/gracewitter/pen/pxWgBJ)
 
-**Today's Progress**: Finished anki decks, mostly finished survey form
+### Day 13 17/10/18
 
-**Thoughts** getting the javascript to work was tricky for me and I had to go back to the tutorial quite a lot, but i'm happy with it. just have to finish the styles now 
+**Today's Progress**: Finished anki decks, codecademy lesson, planned out landing page, got stuck on responsive menu
+
+**Thoughts** I'm frustrated that my menu isn't working; the links don't display when you click on the icon, but i'm sure i'll have it up and running soon 
 
 **Link(s) to work**
-[FCC Survey Form Project] (https://codepen.io/gracewitter/pen/pxWgBJ))
+[FCC Product Landing Page] (https://codepen.io/gracewitter/pen/QZmwdg)
