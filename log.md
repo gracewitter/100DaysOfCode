@@ -113,3 +113,12 @@ Nothing to show for today
 
 **Link(s) to work**
 [FCC Product Landing Page] (https://codepen.io/gracewitter/pen/QZmwdg)
+
+### Day 14 18/10/18
+
+**Today's Progress**: Finished anki decks, codecademy lesson, still stuck on responsive menu
+
+**Thoughts** Same exact problem as yesterday, went through loads of tutorials and still can't figure it out
+
+**Link(s) to work**
+[FCC Product Landing Page] (https://codepen.io/gracewitter/pen/QZmwdg)

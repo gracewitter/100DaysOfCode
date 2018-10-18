@@ -7,35 +7,26 @@
     </head>
     <body>
         <header>
-            <div class="navbar">
-                <div class="logo">
-                    Website Title
-                </div>
-                <div class="navbar-link navbar-toggle">
-                    <i class="fas fa-bars"></i>
-                </div>
-                <div class="navbar-items">
-                    <div class="navbar-link">
-                        Link 1
-                    </div>
-                    <div class="navbar-link">
-                        Link 2
-                    </div>
-                    <div class="navbar-link">
-                        Link 3
-                    </div>
-                </div>
+            <div class="logo">Website Logo</div>
+            <nav class="menu">
+                <ul>
+                    <li><a href="#">Menu 1</a></li>
+                    <li><a href="#">Menu 2</a></li>
+                    <li><a href="#">Menu 3</a></li>
+                </ul>
+            </nav>
+            <div class="toggle">
+                <i class="fas fa-bars aria-hidden="true""></i>
             </div>
         </header>
         
-        <script>
-           function classToggle(){
-               const navs = document.querySelectorAll('.navbar-items');
-               
-               navs.forEach(nav => nav.classList.toggle('navbar-toggleShow'))
-           };
-            document.querySelector('navbar-toggle').addEventListener('click', classToggle());
-        
+        <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $('.toggle').click(function(){
+                    $('ul').toggleClass('active');
+                })
+            })
         </script>
     </body>
 </html>
