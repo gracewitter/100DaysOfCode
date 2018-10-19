@@ -122,3 +122,12 @@ Nothing to show for today
 
 **Link(s) to work**
 [FCC Product Landing Page] (https://codepen.io/gracewitter/pen/QZmwdg)
+
+### Day 15 19/10/18
+
+**Today's Progress**: Finished anki decks, codecademy lesson, Finished menu and hero image
+
+**Thoughts** Satisfied with the menu, made a neat hero using a border radius trick
+
+**Link(s) to work**
+[FCC Product Landing Page] (https://codepen.io/gracewitter/pen/QZmwdg)

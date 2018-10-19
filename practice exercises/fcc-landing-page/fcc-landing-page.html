@@ -7,26 +7,26 @@
     </head>
     <body>
         <header>
-            <div class="logo">Website Logo</div>
-            <nav class="menu">
-                <ul>
-                    <li><a href="#">Menu 1</a></li>
-                    <li><a href="#">Menu 2</a></li>
-                    <li><a href="#">Menu 3</a></li>
-                </ul>
-            </nav>
-            <div class="toggle">
-                <i class="fas fa-bars aria-hidden="true""></i>
+            <div id="top-nav">
+                <a href="#" id="logo">Website Logo</a>
+                <nav>
+                    <a href="#" id="menu-icon"><i class="fas fa-bars"></i></a>
+                    <ul>
+                        <li><a href="#" class="current">What&rsquo;s HugBox?</a></li>
+                        <li><a href="#">Products</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div id="hero-section">
+                <div id="hero-text">Buy a HugBox</div>
+                <div id="hero-image-container">
+                    <div id="hero-image-1"></div>
+                    <div id="hero-image-2"></div>
+                </div>
             </div>
         </header>
         
-        <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-        <script type="text/javascript">
-            $(document).ready(function(){
-                $('.toggle').click(function(){
-                    $('ul').toggleClass('active');
-                })
-            })
-        </script>
+       
     </body>
 </html>
