@@ -3,30 +3,106 @@
     <head>
         <link type="text/css" rel="stylesheet" href="fcc-landing-page-style.css">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-        <title>Hug in a Box Landing Page</title>
+        <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
+        <title>HugBox Landing Page</title>
     </head>
     <body>
-        <header>
+        <header id="header">
             <div id="top-nav">
-                <a href="#" id="logo">Website Logo</a>
-                <nav>
+                <a href="#" ><img id="header-img" src="http://www.gracewitter.com/wp-content/uploads/2018/10/HugBox-logo-yellow-1.png" alt="hug box logo"></a>
+                <nav id="nav-bar">
                     <a href="#" id="menu-icon"><i class="fas fa-bars"></i></a>
                     <ul>
-                        <li><a href="#" class="current">What&rsquo;s HugBox?</a></li>
-                        <li><a href="#">Products</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="#whatIsHugBox" class="current nav-link">What&rsquo;s HugBox?</a></li>
+                        <li><a href="#products" class="nav-link">Products</a></li>
+                        <li><a href="#contact" class="nav-link">Contact</a></li>
                     </ul>
                 </nav>
             </div>
             <div id="hero-section">
-                <div id="hero-text">Buy a HugBox</div>
+                <div id="hero-text-container">
+                    <h1>The warmth of a hug.</h1>
+                    <h1>Delivered to your door.</h1>
+                    <p>HugBox is the loving hug you send your friend (or yourself!) when they&rsquo;re having a tough time <strong>for as little as £15* per month</strong>.</p>
+                    <form id="form" action="https://www.freecodecamp.com/email-submit">
+                        <input type="email" name="email" id="email" placeholder="Enter your email" required>
+                        <input type="submit" id="submit" value="Get Early Access + 10% Off" class="button">
+                    </form>
+                </div>
                 <div id="hero-image-container">
                     <div id="hero-image-1"></div>
                     <div id="hero-image-2"></div>
                 </div>
             </div>
         </header>
-        
-       
+        <section id="whatIsHugBox">
+            <h2><span id="header-underline">What is HugBox?</span></h2>
+            <div class="grid">
+                <div class="-grid-item">
+                    <div class="whatIsHugBox-grid-item-img"></div>
+                    <div class="whatIsHugBox-grid-item-text">
+                        <i class="fas fa-star grid-icon"></i>
+                        <h3>Quality Products</h3>
+                        <p>Each HugBox is packed with 5 items designed to to make you feel good.</p>
+                    </div>
+                </div>
+                <div class="grid-item">
+                    <div class="whatIsHugBox-grid-item-img"></div>
+                    <div class="whatIsHugBox-grid-item-text">
+                        <i class="fas fa-smile-beam grid-icon"></i>
+                        <h3>Spread Cheer and Love</h3>
+                        <p>Getting a HugBox reminds you that you matter and that someone cares.</p>
+                        
+                    </div>
+                </div>
+                <div class="grid-item">
+                    <div class="whatIsHugBox-grid-item-img"></div>
+                    <div class="whatIsHugBox-grid-item-text">
+                        <i class="fas fa-users grid-icon"></i>
+                        <h3>For Everyone</h3>
+                        <p>Each HugBox is created for <em>anyone</em> who could use a boost, pick-me up, or some self-care. </p>
+                    </div>
+                </div>
+            </div>
+            <div id="video">
+                <h3><span id="header-underline"><em>Make your friends as surprised and happy as these babies</em></span></h3>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/CFWYi6gOf_Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+        </section>
+        <section id="products">
+            <h2><span id="header-underline">What&rsquo;s Included?</span></h2>
+            <p><em>The contents of each HugBox changes every month to keep things fresh and exciting. Every item is selected to make you feel good, de-stress, find calm, and feel pampered. Here are some items we packed in previous boxes.</em></p>
+            <div class="grid">
+                <div class="grid-item">
+                    <div ><img class="grid-item-img" src="https://www.blurtitout.org/wp-content/uploads/2017/12/BuddyBox-HB-Dec17-19-768x768.jpg" alt="photo of the self care project book"></div>
+                    <div class="grid-item-text">
+                        <h3>Books and Cards</h3>
+                        <p>Everything you need to know about how to take care of yourself and actually follow through in your daily life.</p>
+                    </div>
+                </div>
+                <div class="grid-item">
+                    <div ><img class="grid-item-img" src="https://www.blurtitout.org/wp-content/uploads/2018/07/BuddyBox-HB-July18-15-768x768.jpg" alt="self care koala bear enamel pin"></div>
+                    <div class="grid-item-text">
+                        <h3>Encouraging Pins</h3>
+                        <p>Pin a little reminder to take care of yourself close to your heart.</p>
+                    </div>
+                </div>
+                <div class="grid-item">
+                    <div ><img class="grid-item-img" src="https://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/74361_XXX_v1.tif&wid=650&cvt=jpeg" alt="oh k korean beauty under eye mask"></div>
+                    <div class="grid-item-text">
+                        <h3>Pampering Products</h3>
+                        <p>For those times you need stay home, wrap up in a fuzzy bath robe, and take care of yourself.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer id="contact">
+            <h1>Want some freebies?</h1>
+            <h3>Sign up for our newsletter!</h3>
+            <form id="footer-form" action="https://www.freecodecamp.com/email-submit">
+                <input type="email" id="footer-email" name="email" placeholder="Enter your email" required>
+                <button type="submit" id="footer-button">Yes, I like free things</button>
+            </form>
+        </footer>
     </body>
 </html>

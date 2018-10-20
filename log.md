@@ -131,3 +131,12 @@ Nothing to show for today
 
 **Link(s) to work**
 [FCC Product Landing Page] (https://codepen.io/gracewitter/pen/QZmwdg)
+
+### Day 16 20/10/18
+
+**Today's Progress**: Finished anki decks, Finished landing page, yay!
+
+**Thoughts** I'm really proud of how it looks and responds
+
+**Link(s) to work**
+[FCC Product Landing Page] (https://codepen.io/gracewitter/pen/QZmwdg)
