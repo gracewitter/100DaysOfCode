@@ -140,3 +140,19 @@ Nothing to show for today
 
 **Link(s) to work**
 [FCC Product Landing Page] (https://codepen.io/gracewitter/pen/QZmwdg)
+
+### Day 17 21/10/18
+
+**Today's Progress**: Finished anki decks, started working on tech documentation page, made 2 pull requests for hacktoberfest
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 18 22/10/18
+
+**Today's Progress**: Finished anki decks, did some more work on tech documentation page, made 2 more pull requests for hacktoberfest
+
+**Thoughts** 
+
+**Link(s) to work**
