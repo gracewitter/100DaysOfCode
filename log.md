@@ -76,7 +76,7 @@ Nothing to show for today
 **Thoughts** I felt really good to get back into things and working on a project. I have a lot of ideas for the next one, a survey form.
 
 **Link(s) to work**
-[FCC Tribute Page Project] (https://codepen.io/gracewitter/pen/pxWgxo)
+[FCC Tribute Page Project](https://codepen.io/gracewitter/pen/pxWgxo)
 
 ### Day 10 14/10/18
 
@@ -85,7 +85,7 @@ Nothing to show for today
 **Thoughts** Feeling good about what I did today, happy with survey form so far
 
 **Link(s) to work**
-[FCC Survey Form Project] (https://codepen.io/gracewitter/pen/pxWgBJ)
+[FCC Survey Form Project](https://codepen.io/gracewitter/pen/pxWgBJ)
 
 ### Day 11 15/10/18
 
@@ -94,7 +94,7 @@ Nothing to show for today
 **Thoughts** getting the javascript to work was tricky for me and I had to go back to the tutorial quite a lot, but i'm happy with it. just have to finish the styles now 
 
 **Link(s) to work**
-[FCC Survey Form Project] (https://codepen.io/gracewitter/pen/pxWgBJ)
+[FCC Survey Form Project](https://codepen.io/gracewitter/pen/pxWgBJ)
 
 ### Day 12 16/10/18
 
@@ -103,7 +103,7 @@ Nothing to show for today
 **Thoughts** happy that the form is finally done and that I put in some solid work 
 
 **Link(s) to work**
-[FCC Survey Form Project] (https://codepen.io/gracewitter/pen/pxWgBJ)
+[FCC Survey Form Project](https://codepen.io/gracewitter/pen/pxWgBJ)
 
 ### Day 13 17/10/18
 
@@ -112,7 +112,7 @@ Nothing to show for today
 **Thoughts** I'm frustrated that my menu isn't working; the links don't display when you click on the icon, but i'm sure i'll have it up and running soon 
 
 **Link(s) to work**
-[FCC Product Landing Page] (https://codepen.io/gracewitter/pen/QZmwdg)
+[FCC Product Landing Page](https://codepen.io/gracewitter/pen/QZmwdg)
 
 ### Day 14 18/10/18
 
@@ -121,7 +121,7 @@ Nothing to show for today
 **Thoughts** Same exact problem as yesterday, went through loads of tutorials and still can't figure it out
 
 **Link(s) to work**
-[FCC Product Landing Page] (https://codepen.io/gracewitter/pen/QZmwdg)
+[FCC Product Landing Page](https://codepen.io/gracewitter/pen/QZmwdg)
 
 ### Day 15 19/10/18
 
@@ -130,7 +130,7 @@ Nothing to show for today
 **Thoughts** Satisfied with the menu, made a neat hero using a border radius trick
 
 **Link(s) to work**
-[FCC Product Landing Page] (https://codepen.io/gracewitter/pen/QZmwdg)
+[FCC Product Landing Page](https://codepen.io/gracewitter/pen/QZmwdg)
 
 ### Day 16 20/10/18
 
@@ -139,7 +139,7 @@ Nothing to show for today
 **Thoughts** I'm really proud of how it looks and responds
 
 **Link(s) to work**
-[FCC Product Landing Page] (https://codepen.io/gracewitter/pen/QZmwdg)
+[FCC Product Landing Page](https://codepen.io/gracewitter/pen/QZmwdg)
 
 ### Day 17 21/10/18
 
@@ -156,3 +156,11 @@ Nothing to show for today
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 19 23/10/18
+
+**Today's Progress**: Finished anki decks, finished hacktoberfest, finished tech documentation, built slideshow for portfolio page
+
+**Thoughts** I feel so so happy that I finished hacktoberfest, it definitely wasn't something I originally thought that i could do
+
+**Link(s) to work** [FCC Technical Documentation Page](https://github.com/gracewitter/100DaysOfCode/tree/master/practice%20exercises/fcc-projects/technical-doc)
