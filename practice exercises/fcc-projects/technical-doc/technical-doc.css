@@ -1,14 +1,117 @@
 body{
     font-family: 'Roboto', sans-serif;
+    color: #555;
     margin: 0;
-}
-#top-nav{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
+}
+header{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #B3B3B3;
+    margin: 0.83em 0;
+}
+#navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    padding: 10px 25px;
+    width: 300px;
+    min-width: 290px;
+    color: #B3B3B3;
+}
+#navbar header{
+    text-align: center;
+}
+#navbar li{
+    border-bottom: #1B998B 1.5px solid;
+    list-style: none;
+    position: relative;
+    width: 110%;
+    left: -60px;
+    padding: 10px 10px 10px 45px;
+    background-color: #6DBEB5;
+}
+#navbar li:hover,
+#navbar li:active{
+    background-color: #1B998B;
+    font-weight: bold;
+}
+#first-nav{
+    border-top: #1B998B 1.5px solid;
+}
+#navbar a{
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
 }
 #logo{
     width: 200px;
     height: auto;
+}
+#search-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;    
+}
+#search-container input{
+    width: 70%;
+    height: 25px;
+    padding: 5px 10px;
+    border: 1.5px solid #1B998B;
+    font-size: 17px;
+    color: #B3B3B3;
+}
+#search-container button{
+    width:  35px;
+    height: 37px;
+    cursor: pointer;
+    margin-left: -5px;
+    font-size: 15px;
+    background-color: #1B998B;
+    border: none;
+}
+#search-container i{
+    font-size: 1.1em;
+    color: #FDFBFB;
+}
+
+#main-doc{
+    padding: 10px 25px;
+    border-left: #1B998B 2px solid;
+    width: 80%;
+}
+section article{
+    margin: 15px;
+    font-size: 1em;
+}
+section li{
+    margin:15px 0px 0px 20px;
+}
+code{
+  display:block;
+    text-align: left;
+  white-space: pre;
+  position: relative;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 2;
+    background-color:#f7f7f7;
+  padding:15px;
+  margin:10px;
+    border-radius:5px;
+}
+
+@media only screen and (max-width: 815px){
+    body{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center
+    }
+    #main-doc{
+        border: none;
+    }
 }
