@@ -164,3 +164,36 @@ Nothing to show for today
 **Thoughts** I feel so so happy that I finished hacktoberfest, it definitely wasn't something I originally thought that i could do
 
 **Link(s) to work** [FCC Technical Documentation Page](https://github.com/gracewitter/100DaysOfCode/tree/master/practice%20exercises/fcc-projects/technical-doc)
+
+### Day 20 24/10/18
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+### Day 21 25/10/18
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+### Day 22 26/10/18
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+### Day 23 27/10/18
+
+**Today's Progress**: Finished M Syeda portfolio page, finished anki decks, finished freeCodeCamp responsive web design module and got certificate, 2 codecademy lessons
+
+**Thoughts** I was just mentally and physically exhausted the last few days. I feel guilty about the missed days, but I think that I made up for it with the hard work today. New plan is to build basic level projects based on the odin project, duckett's book, and skillcrush then move on to javascript in 30 days when i feel comfortable with vanilla level
+
+**Link(s) to work** [Portfolio Page](https://codepen.io/gracewitter/full/mzoVqV/)
+[Responsive Web Design Certificate](https://www.freecodecamp.org/certification/gracewitter/responsive-web-design)

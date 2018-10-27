@@ -4,10 +4,22 @@
         <title>M. Syeda Portfolio Page</title>
         <meta charset="utf-8">
         <link type="text/css" rel="stylesheet" href="portfolio-page.css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     </head>
     <body>
+        <header>
+            <img id="logo" src="http://www.gracewitter.com/wp-content/uploads/2018/10/shezofaLogo-script.png">
+            <nav>
+                <ul>
+                    <li class="nav-link"><a class="active-link" href="#work">work</a></li>
+                    <li class="nav-link"><a href="#about">bio</a></li>
+                    <li class="nav-link"><a href="#contact">contact</a></li>
+                </ul>
+            </nav>
+            <hr>
+        </header>
         <!-- Container for the image gallery -->
-<div class="container">
+<div id="work" class="container">
 
   <!-- Full-width images with number text -->
   <div class="mySlides">
@@ -41,8 +53,10 @@
   </div>
 
   <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    <div class="navButton">
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
 
   <!-- Image text -->
   <div class="caption-container">
@@ -70,7 +84,43 @@
       <img class="demo cursor" src="http://www.gracewitter.com/wp-content/uploads/2018/10/water-liliy.jpg" style="width:100%" onclick="currentSlide(6)" alt="Water Lily">
     </div>
   </div>
-</div>
+</div> <!-- /container -->
+        <hr class="divider">
+        <div id="about">
+            <div class="about-text">
+                <h1>Bio</h1>
+                <p>Born in Bangladesh, raised in London, Maubsin Syeda brings a unique perspective to her artistic creations. She is deeply inspired by nature and draws on this and her upbringing to create vibrant and unique watercolour and acrylic works of art.</p>
+            </div>
+            <div id="about-image-container">
+                <img id="about-image" src="https://images.unsplash.com/photo-1528356308114-77df487717a2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d0c77f43066a000975a0473b49b19e99&auto=format&fit=crop&w=334&q=80">
+            </div>
+        </div> <!-- /about -->
+        <hr class="divider">
+        <div id="contact">
+            <div id="contact-text">
+                <h1>Contact</h1>
+                <p>Please complete the form below for any inquiries</p>
+            </div>
+            <form action="#">
+                <div class="form-field">
+                    <label for="name">Name*</label>
+                    <div id="name-field">
+                        <input type="text" class="name-field" id="fname" name="name" placeholder="First Name" required>
+                        <input type="text" class="name-field" id="lname" name="name" placeholder="Last Name" required>
+                    </div>
+                </div>
+                <div class="form-field">
+                    <label for="email">Email Address*</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-field">
+                    <label for="message">Message*</label>
+                    <textarea id="message" name="message" required></textarea>
+                </div>
+                <button id="submit-btn" type="submit">Submit</button>
+            </form>
+        </div> <!-- /contact -->
+        <hr class="divider">
         <script>
             var slideIndex = 1;
 showSlides(slideIndex);

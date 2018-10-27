@@ -1,15 +1,99 @@
 * {
   box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+title,
+script{
+    display: none;
+}
+body{
+    width: 80%;
+    max-width: 800px;
+}
+a{
+    text-decoration: none;
+}
+a:hover,
+a:active,
+.active-link{
+    border-bottom: 2px solid #e5e5e5;
+    padding-bottom: 3px;
+}
+hr{
+    border: 0;
+    height: 0;
+    border-bottom: 2px solid #e5e5e5;
+    width: 90%;
+}
+.divider{
+    margin: 100px 0;
+}
+
+/* Header styles */
+header{
+    width: 90%;
+    margin: 50px 0;
+}
+header hr{
+    position: relative;
+    top: -35px;
+}
+#logo{
+    width: 100%;
+    max-width: 400px;
+    height: 100%;
+}
+nav{
+    background-color: white;
+    margin-top: 1em;
+    height: 50px;
+    padding: 0 20px;
+    z-index: 1;
+}
+nav ul{
+    padding: 0;
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+nav a{
+    text-transform: uppercase;
+    color: #8b7f7f;
+    font-weight:100;
+    font-size: 0.9em;
+}
+
 
 /* Position the image container (needed to position the left and right arrows) */
 .container {
   position: relative;
+    
 }
 
 /* Hide the images by default */
 .mySlides {
   display: none;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background-color: #e5e5e5;
+}
+.mySlides img{
+    height: 600px;
+    max-width: 800px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 /* Add a pointer when hovering over the thumbnail images */
@@ -18,26 +102,26 @@
 }
 
 /* Next & previous buttons */
+.navButton{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+      position: absolute;
+    z-index: 10;
+    width: 100%;
+    margin-top: 275px;
+}
 .prev,
 .next {
   cursor: pointer;
-  position: absolute;
-  top: 40%;
-  width: auto;
   padding: 16px;
-  margin-top: -50px;
   color: white;
   font-weight: bold;
   font-size: 20px;
   border-radius: 0 3px 3px 0;
   user-select: none;
   -webkit-user-select: none;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
@@ -57,21 +141,26 @@
 
 /* Container for image text */
 .caption-container {
-  text-align: center;
-  background-color: #222;
+    display: flex;
+    align-self: center;
+    position: relative;
+    top: -55px;
   padding: 2px 16px;
   color: white;
 }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-top: -20px;
+    
+}
+.row img{
+    height: 100px;
 }
 
 /* Six columns side by side */
 .column {
-  float: left;
   width: 16.66%;
 }
 
@@ -83,4 +172,97 @@
 .active,
 .demo:hover {
   opacity: 1;
+}
+
+/* About Section */
+#about{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #555;
+    width: 100%;
+}
+h1{
+    display: flex;
+    align-self: flex-start;
+    color: #8b7f7f;
+    margin-bottom: 0
+}
+#about-image-container{
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+    margin: 0 0 0 50px;
+}
+#about-image{
+filter: grayscale(70%);
+}
+
+/* Contact Section */
+#contact{
+    display: flex;
+    flex-direction: column;
+    color: #555;
+    width: 100%;
+}
+#contact-text{
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 2em;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;    
+    max-width: 500px;
+}
+label{
+    display: flex;
+    align-self: flex-start;
+    margin-bottom: 5px;
+}
+input,
+textarea{
+    width:100%;
+    padding: 7px 20px;
+}
+textarea{
+    height: 100px;
+    margin-bottom: 15px;
+}
+.form-field{
+    margin: 15px 0;
+    width: 100%;
+}
+#name-field{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+#fname{
+    margin-right: 20px;
+}
+#submit-btn{
+    display: flex;
+    align-self: center;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: white;
+    border: 2px solid #555;
+}
+#submit-btn:hover{
+    background-color: #555;
+    color: white;
+}
+
+@media screen and (max-width:768px){
+    #about{
+        flex-direction: column;
+    }
+    #about-image-container{
+        margin: 50px 0 0 0;
+    }
 }
