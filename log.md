@@ -197,3 +197,11 @@ Nothing to show for today
 
 **Link(s) to work** [Portfolio Page](https://codepen.io/gracewitter/full/mzoVqV/)
 [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/gracewitter/responsive-web-design)
+
+### Day 24 28/10/18
+
+**Today's Progress**: Finished intro to javascript codecademy course
+
+**Thoughts** Really wasn't too impressed with the last few lessons, i can't explain what they were even about. I'm glad i'm done, now I can shift my focus to building projects
+
+**Link(s) to work** 
