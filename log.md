@@ -205,3 +205,11 @@ Nothing to show for today
 **Thoughts** Really wasn't too impressed with the last few lessons, i can't explain what they were even about. I'm glad i'm done, now I can shift my focus to building projects
 
 **Link(s) to work** 
+
+### Day 25 29/10/18
+
+**Today's Progress**: Made the accelerate site responsive, started going through the Odin project exercise repo, installed npm
+
+**Thoughts** I found installing npm very confusing, I really need to expose myself more to this to get more comfortable with it
+
+**Link(s) to work** [Accelerate](staging.gracewitter.com)
