@@ -213,3 +213,11 @@ Nothing to show for today
 **Thoughts** I found installing npm very confusing, I really need to expose myself more to this to get more comfortable with it
 
 **Link(s) to work** [Accelerate](staging.gracewitter.com)
+
+### Day 26 30/10/18
+
+**Today's Progress**: Worked through a few examples in the odin project
+
+**Thoughts** I made really slow progress today, my mind just felt so dense. I'm happy that I stayed disciplined and put in my hour anyway though 
+
+**Link(s) to work** [repeatString](https://github.com/gracewitter/javascript-exercises/blob/b6a347d859bc670b7c4802bb809c72a20dbb22f3/repeatString/repeatString.js)

@@ -1,0 +1,51 @@
+<html>
+    <body>
+        <script>
+            let countdown = () => {
+                let i = 10;
+                while (i >= 0){
+                    if (i === 10){
+                        console.log( 'Countdown ' + i);
+                    }else if(i === 0){
+                        console.log ('Blast Off');
+                    }else{
+                        console.log(i);
+                    }
+                    
+                    i--;
+                }
+            }
+            
+            let guestList = () => {
+                const people = ['Chris', 'Anne', 'Colin', 'Terri', 'Phil', 'Lola', 'Sam', 'Kay', 'Bruce'];
+                const admitted = [];
+                const refused = [];
+                
+                for (let i = 0; i < people.length; i++){
+                    if (people[i] === 'Phil' || people[i] === 'Lola'){
+                        refused.push(people[i]);
+                    }else{
+                        admitted.push(people[i]);
+                    }
+                }
+            }
+            
+            let repeatStringNumTimes = (string, times) => {
+                let repeatedString = '';
+                
+                if (times < 0){
+                    repeatedString = "Error";
+                }
+                
+                while (times > 0){
+                    repeatedString += string;
+                    times --;
+                }
+                
+                console.log (repeatedString);
+            }
+            repeatStringNumTimes("hey",-1);
+            
+        </script>
+    </body>
+</html>
