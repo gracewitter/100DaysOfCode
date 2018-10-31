@@ -221,3 +221,11 @@ Nothing to show for today
 **Thoughts** I made really slow progress today, my mind just felt so dense. I'm happy that I stayed disciplined and put in my hour anyway though 
 
 **Link(s) to work** [repeatString](https://github.com/gracewitter/javascript-exercises/blob/b6a347d859bc670b7c4802bb809c72a20dbb22f3/repeatString/repeatString.js)
+
+### Day 27 31/10/18
+
+**Today's Progress**: Continued slogging through the odin project fundamentals 4 lesson
+
+**Thoughts** 
+
+**Link(s) to work** 
