@@ -222,10 +222,10 @@ Nothing to show for today
 
 **Link(s) to work** [repeatString](https://github.com/gracewitter/javascript-exercises/blob/b6a347d859bc670b7c4802bb809c72a20dbb22f3/repeatString/repeatString.js)
 
-### Day 27 31/10/18
+### Day 1 3/12/18
 
-**Today's Progress**: Continued slogging through the odin project fundamentals 4 lesson
+**Today's Progress**: 30 mins of FCC javascript, most of the day spent going through W3C School's Bootstrap 3 course
 
 **Thoughts** 
 
-**Link(s) to work** 
+**Link(s) to work** [Bootstrap 3 practice template](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/Bootstrap-3-Template.html)
