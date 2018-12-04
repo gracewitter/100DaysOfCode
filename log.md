@@ -229,3 +229,11 @@ Nothing to show for today
 **Thoughts** 
 
 **Link(s) to work** [Bootstrap 3 practice template](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/Bootstrap-3-Template.html)
+
+### Day 2 4/12/18
+
+**Today's Progress**: Finished FCC Basic JS module, practiced more bootstrap, made a countdown timer in JS
+
+**Thoughts** 
+
+**Link(s) to work** [countdown timer](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/countdown-timer.html)
