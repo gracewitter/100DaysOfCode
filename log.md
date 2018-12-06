@@ -237,3 +237,11 @@ Nothing to show for today
 **Thoughts** 
 
 **Link(s) to work** [countdown timer](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/countdown-timer.html)
+
+### Day 3 6/12/18
+
+**Today's Progress**: Did 30 mins JS on FCC, lots of time doing bootstrap with the Gold Hunt site
+
+**Thoughts** I'm a little worried how much i'm relying on the hints in the ES6 section, my mind feels totally unable to comprehend what the question is even asking
+
+**Link(s) to work** [gold hunt](https://kinesisgoldhunt.com)
