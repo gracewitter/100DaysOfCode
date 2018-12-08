@@ -245,3 +245,19 @@ Nothing to show for today
 **Thoughts** I'm a little worried how much i'm relying on the hints in the ES6 section, my mind feels totally unable to comprehend what the question is even asking
 
 **Link(s) to work** [gold hunt](https://kinesisgoldhunt.com)
+
+### Day 4 7/12/18
+
+**Today's Progress**: Spent a lot of time refreshing my memory on ACF and building Kinesis eDirect landing pages
+
+**Thoughts** Still having some trouble with loading images as background with custom fields
+
+**Link(s) to work** [ed landing page](https://github.com/bullioncapital/kinesis-website/blob/feature/eDirect/wp-content/themes/kinesis/eDirect-02-template.php)
+
+### Day 5 8/12/18
+
+**Today's Progress**: Worked through ES6 examples on FCC
+
+**Thoughts** Was very confused with a few of the deconstructing objects problems, but was happy that I worked out the solution
+
+**Link(s) to work** 
