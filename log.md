@@ -261,3 +261,27 @@ Nothing to show for today
 **Thoughts** Was very confused with a few of the deconstructing objects problems, but was happy that I worked out the solution
 
 **Link(s) to work** 
+
+### Day 6 9/12/18
+
+**Today's Progress**: Worked through ES6 examples on FCC
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+### Day 7 10/12/18
+
+**Today's Progress**: Worked through ES6 examples on FCC, did lots of practice with ACF
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+### Day 8 11/12/18
+
+**Today's Progress**: Finished ES6 section and now working through regex, did some practice with bootstrap grid
+
+**Thoughts** 
+
+**Link(s) to work** 
