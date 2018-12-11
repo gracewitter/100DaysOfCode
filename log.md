@@ -284,4 +284,4 @@ Nothing to show for today
 
 **Thoughts** 
 
-**Link(s) to work** 
+**Link(s) to work** [bootstrap grid practice](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/bootstrap3practice.html)
