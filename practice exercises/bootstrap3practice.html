@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    </head>
+    <body>
+        <div class="container-fluid">
+            <h1>Small Grid</h1>
+            <div class="row">
+                <div class="col-sm-3" style="background-color: yellow">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                </div>
+                <div class="col-sm-9" style="background-color: pink">
+                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-4" style="background-color: pink">
+                    COL SM 4
+                </div>
+                <div class="col-sm-8" style="background-color: yellow">
+                    COL SM 8
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="container-fluid">
+            <h1>Medium Grid</h1>
+            <p>25/75 split on small screens, 50/50 on med, 100% on xs screens</p>
+            <div class="row">
+                <div class="col-sm-3 col-md-6" style="background-color: pink">Box 1</div>
+                <div class="col-sm-9 col-md-6" style="background-color: yellow">Box 2</div>
+            </div>
+            <p>50/50 on lg and md, 100 on sm</p>
+            <div class="row">
+                <div class="col-md-6" style="background-color: green">Box 1</div>
+                <div class="col-md-6" style="background-color: greenyellow">Box 2</div>
+            </div>
+        </div>
+        
+        <div class="container-fluid">
+            <h1>large grid</h1>
+            <p>33/66 on lg, 50/50 on md, 25/75 on sm, 100 on xs</p>
+            <div class="row">
+                <div class="col-sm-3 col-md-6 col-lg-4" style="background-color: pink">Box 1</div>
+                <div class="col-sm-9 col-md-6 col-lg-8" style="background-color: yellow">Box 2</div>
+            </div>
+        </div>
+        
+        <div class="container-fluid">
+            <h1>3 unequal columns</h1>
+            <div class="row">
+                <div class="col-sm-3" style="background-color: pink">Box 1</div>
+                <div class="col-sm-6" style="background-color: yellow">Box 2</div>
+                <div class="col-sm-3" style="background-color: pink">Box 3</div>
+            </div>
+        </div>
+        
+        <div class="container-fluid">
+            <h1>2 columns with 2 nested columns</h1>
+            <div class="col-sm-8" style="background-color: pink">
+                Box 1
+                <div class="row">
+                    <div class="col-sm-6" style="background-color: green">Box 2</div>
+                    <div class="col-sm-6" style="background-color: greenyellow">Box 3</div>
+                </div>
+            </div>
+            <div class="col-sm-4" style="background-color: yellow">Box 4</div>
+        </div>
+        
+        <div class="container-fluid">
+            <h1>Mobile and Desktop</h1>
+            <div class="row">
+                <div class="col-xs-9 col-md-7" style="background-color: pink">75% small, 58% med</div>
+                <div class="col-xs-3 col-md-5" style="background-color: yellow">25% small, 42% med</div>
+            </div>
+            <div class="row">
+                <div class="col-xs-6 col-md-10" style="background-color: green">50% small, 83% med</div>
+                <div class="col-xs-6 col-md-2" style="background-color: greenyellow">50% small, 16% med</div>
+            </div>
+            
+            <div class="row">
+                <div class="col-xs-6" style="background-color: pink">50% small</div>
+                <div class="col-xs-6" style="background-color: yellow">50% small</div>
+            </div>
+        </div>
+        
+        <div class="container-fluid">
+            <h1>Mobile, Tablet, and Desktop</h1>
+            <div class="row">
+                <div class="col-xs-7 col-sm-6 col-lg-8" style="background-color: pink">58% phone, 50% tablet, 66% desktop</div>
+                <div class="col-xs-5 col-sm-6 col-lg-4" style="background-color: yellow">42% phone, 50% tablet, 33% desktop</div>
+            </div>
+            <div class="row">
+                <div class="col-xs-6 col-sm-8 col-lg-10" style="background-color: green">50% phone, 66% tablet, 83% desktop</div>
+                <div class="col-xs-6 col-sm-4 col-lg-2" style="background-color: greenyellow">50% phone, 33% tablet, 16% desktop</div>
+            </div>
+        </div>
+        
+        <div class="container-fluid">
+            <h1>Clear floats</h1>
+            <div class="row">
+                <div class="col-xs-6 col-sm-3" style="background-color: pink">
+                    Col 1<br> 50% mobile, 25% tablet
+                </div>
+                <div class="col-xs-6 col-sm-3" style="background-color: yellow">
+                    Col 2
+                </div>
+                <div class="clearfix visible-xs"></div>
+                <div class="col-xs-6 col-sm-3" style="background-color: green">Col 3</div>
+                <div class="col-xs-6 col-sm-3" style="background-color: greenyellow">Col 4</div>
+            </div>
+        </div>
+        
+        <div class="container-fluid">
+            <h1>Offsetting columns</h1>
+            <div class="row">
+                <div class="col-sm-5 col-md-6" style="background-color: pink">42% tablet 50% desktop</div>
+                <div class="col-sm-5 col-sm-offset-2 col-md-6 col-md-offset-0" style="background-color: yellow">16% left margin on tablet</div>
+            </div>
+        </div>
+        
+        <div class="container-fluid">
+            <h1>Push and Pull change column ordering</h1>
+            <div class="row">
+                <div class="col-sm-4 col-sm-push-8" style="background: pink">33% tablet push 66%</div>
+                <div class="col-sm-8 col-sm-pull-4" style="background: yellow">33% pull  66% tablet</div>
+            </div>
+        </div>
+        
+    </body>
+</html>
