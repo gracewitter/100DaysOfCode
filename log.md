@@ -285,3 +285,11 @@ Nothing to show for today
 **Thoughts** 
 
 **Link(s) to work** [bootstrap grid practice](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/bootstrap3practice.html)
+
+### Day 9 12/12/18
+
+**Today's Progress**: Finished regex section and now working through debugging module, did some practice with bootstrap grid
+
+**Thoughts** Did so much practice with js and bootstrap nav
+
+**Link(s) to work** [bootstrap template1 practice](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/bootstrap3practice.html)
