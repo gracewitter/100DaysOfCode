@@ -293,3 +293,36 @@ Nothing to show for today
 **Thoughts** Did so much practice with js and bootstrap nav
 
 **Link(s) to work** [bootstrap template1 practice](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/bootstrap3practice.html)
+
+### Day 10 13/12/18
+
+**Today's Progress**: Had some practice with mobile menu animations, lots of bootstrap practice, did some debugging on fcc
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+### Day 11 14/12/18
+
+**Today's Progress**: Worked on making a responsive timeline with modals
+
+**Thoughts** 
+
+**Link(s) to work** [kinesis timeline](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/horizontal-timeline.html)
+
+### Day 12 15/12/18
+
+**Today's Progress**: Reviewed git with the tower course
+
+**Thoughts** 
+
+**Link(s) to work** 
+
+### Day 13 16/12/18
+
+**Today's Progress**: Finished git course
+
+**Thoughts** 
+
+**Link(s) to work** 
+
