@@ -326,3 +326,19 @@ Nothing to show for today
 
 **Link(s) to work** 
 
+### Day 14 17/12/18
+
+**Today's Progress**: daughter was in hospital, no work today
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 15 18/12/18
+
+**Today's Progress**: finished dubugging module on FCC, moved on to basic data structures. made the blog and portfolio templates with BS3
+
+**Thoughts** 
+
+**Link(s) to work** [BS3 Blog Template](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/BS-template-blog.html}
+[BS3 Portfolio template](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/BS-template-portfolio.html)
