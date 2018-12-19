@@ -342,3 +342,11 @@ Nothing to show for today
 
 **Link(s) to work** [BS3 Blog Template](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/BS-template-blog.html}
 [BS3 Portfolio template](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/BS-template-portfolio.html)
+
+### Day 16 19/12/18
+
+**Today's Progress**: Worked some more with basic data structures on FCC
+
+**Thoughts** I was so so tired tonight and was ready to skip this, but decided to set a timer anyway. i'm really happy i got my hour in today
+
+**Link(s) to work** 
