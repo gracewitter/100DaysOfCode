@@ -350,3 +350,11 @@ Nothing to show for today
 **Thoughts** I was so so tired tonight and was ready to skip this, but decided to set a timer anyway. i'm really happy i got my hour in today
 
 **Link(s) to work** 
+
+### Day 17 20/12/18
+
+**Today's Progress**: Made a mobile menu close on click with animation 
+
+**Thoughts** This was something I had to do for work and it took me lots of troubleshooting to do it. Mobile menus definitely used to be something that inimidated me a year ago, I'm so proud of how far I've come
+
+**Link(s) to work** [Mobile menu that closes on click with animation(https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/close-mobile-menu-onclick.html)
