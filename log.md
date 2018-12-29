@@ -358,3 +358,11 @@ Nothing to show for today
 **Thoughts** This was something I had to do for work and it took me lots of troubleshooting to do it. Mobile menus definitely used to be something that inimidated me a year ago, I'm so proud of how far I've come
 
 **Link(s) to work** [Mobile menu that closes on click with animation(https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/close-mobile-menu-onclick.html)
+
+### Day 18 29/12/18
+
+**Today's Progress**: Finished Bootstrap and Basic Algorithms sections in FCC 
+
+**Thoughts** I missed quite a few days because of the holidays and poor mental health. I want to pick up right where I left off instead of resetting so that hopefully my brain won't see these gaps as a scary thing to overcome
+
+**Link(s) to work** [FCC basic algorithm scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/FCC-JS-basic-algorithm-scripting.html)
