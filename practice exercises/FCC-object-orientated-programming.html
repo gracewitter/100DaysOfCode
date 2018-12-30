@@ -1,0 +1,53 @@
+<html>
+    <head></head>
+    <body>
+        <script>
+            //Create a Method on an Object
+            let dog = {
+                name: "Spot",
+                numLegs: 4,
+                sayLegs: function() {
+                    return "This dog has " + this.numLegs + " legs."
+                }
+            }
+            console.log(dog.sayLegs());
+            
+            //Define a Constructor Function
+            function Cat(name, color){
+                this.name = name;
+                this.color = color;
+                this.numLegs = 4;
+            }
+            
+            let brave = new Cat('puss', 'ginger');
+            
+            console.log(brave.name);
+            
+            console.log(brave instanceof Cat);
+            
+            let sweet = {
+                name: 'cupcake'
+            }
+            console.log(sweet instanceof Cat);
+            
+            let ownProps = [];
+            for (let property in brave){
+                if (brave.hasOwnProperty(property)){
+                    ownProps.push(property);
+                }
+            }
+            console.log(ownProps);
+            
+            Cat.prototype.tail = 1;
+            
+            console.log(brave.tail);
+            
+            Cat.prototype = {
+                food: 'mice'
+            };
+            
+            let sneaky = new Cat;
+            console.log(sneaky.food)
+        </script>
+    </body>
+</html>
