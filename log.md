@@ -366,3 +366,19 @@ Nothing to show for today
 **Thoughts** I missed quite a few days because of the holidays and poor mental health. I want to pick up right where I left off instead of resetting so that hopefully my brain won't see these gaps as a scary thing to overcome
 
 **Link(s) to work** [FCC basic algorithm scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/FCC-JS-basic-algorithm-scripting.html)
+
+### Day 19 30/12/18
+
+**Today's Progress**: Finished FCC jQuery section, halfway through object oriented programming section
+
+**Thoughts** 
+
+**Link(s) to work** [object oriented programming](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/FCC-object-orientated-programming.html)
+
+### Day 18 29/12/18
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
