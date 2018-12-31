@@ -43,11 +43,53 @@
             console.log(brave.tail);
             
             Cat.prototype = {
-                food: 'mice'
+                constructor: Cat,
+                food: 'mice',
+                sound: function(){
+                    console.log('meow')
+                }
             };
             
             let sneaky = new Cat;
-            console.log(sneaky.food)
+            console.log(sneaky.sound)
+            
+            
+            
+            
+            function Lion(name){
+                this.name = name;
+            }
+            
+            Lion.prototype = {
+                constructor: Lion,
+            };
+            
+            function Bear(name){
+                this.name = name;
+            }
+            
+            Bear.prototype = {
+                constructor: Bear
+            };
+            
+            function Animal(){};
+            Animal.prototype = {
+                constructor: Animal,
+                eat: function(){
+                    console.log('nom nom')
+                }
+            }
+            
+            
+            
+            let duck = Object.create(Animal.prototype);
+            console.log(duck.eat());
+            
+            Bird.prototype = Object.create(Animal.prototype);
+            let eagle = new Bird();
+            console.log(eagle.eat());
+            
+            
         </script>
     </body>
 </html>
