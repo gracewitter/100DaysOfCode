@@ -375,6 +375,14 @@ Nothing to show for today
 
 **Link(s) to work** [object oriented programming](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/FCC-object-orientated-programming.html)
 
+### Day 20 31/12/18
+
+**Today's Progress**: Finished FCC Object oriented programming
+
+**Thoughts** initally wasn't feeling like doing this, but set a timer and went to work, very happy that i finished this section
+
+**Link(s) to work** [object oriented programming](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/FCC-object-orientated-programming.html)
+
 ### Day 18 29/12/18
 
 **Today's Progress**: 
