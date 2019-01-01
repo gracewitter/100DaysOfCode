@@ -383,7 +383,15 @@ Nothing to show for today
 
 **Link(s) to work** [object oriented programming](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/FCC-object-orientated-programming.html)
 
-### Day 18 29/12/18
+### Day 21 1/1/18
+
+**Today's Progress**: Finished FCC Sass and started functional programming challenges
+
+**Thoughts** The sass section was very light, i'll definitely need extra work on that
+
+**Link(s) to work** 
+
+### Day 21 1/1/18
 
 **Today's Progress**: 
 
