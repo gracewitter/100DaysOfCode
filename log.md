@@ -391,7 +391,15 @@ Nothing to show for today
 
 **Link(s) to work** 
 
-### Day 21 1/1/18
+### Day 22 2/1/18
+
+**Today's Progress**: 10 sections functional programming and react
+
+**Thoughts** i don't really understand these things even after passing the challenges, i'll have to go back and do more projects
+
+**Link(s) to work** 
+
+### Day 22 2/1/18
 
 **Today's Progress**: 
 
