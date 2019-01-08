@@ -399,6 +399,14 @@ Nothing to show for today
 
 **Link(s) to work** 
 
+### Day 23 8/1/18
+
+**Today's Progress**: Finished Functional Programming and started intermediate Algorithm Scripting sections in FCC. Finished Section 1 of Complete Web Dev Bootcamp
+
+**Thoughts** Took a few days off because I was very sick and kept falling asleep early
+
+**Link(s) to work** 
+
 ### Day 22 2/1/18
 
 **Today's Progress**: 
