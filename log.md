@@ -407,6 +407,14 @@ Nothing to show for today
 
 **Link(s) to work** 
 
+### Day 24 9/1/18
+
+**Today's Progress**: Did 3 challenges in Intermediate Algoirthm Scripting and 30 mins Bootcamp
+
+**Thoughts** I'm really struggling to do these challenges!
+
+**Link(s) to work** [Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
+
 ### Day 22 2/1/18
 
 **Today's Progress**: 
