@@ -65,3 +65,71 @@ function whatIsInAName(collection, source){
     });
 };
 console.log(whatIsInAName([{ "apple": 1, "bat": 2 }, { "apple": 1 }, { "apple": 1, "bat": 2, "cookie": 2 }, { "bat":2 }], { "apple": 1, "bat": 2 }));
+
+
+
+
+//Spinal Tap Case
+//Convert a string to spinal case. Spinal case is all-lowercase-words-joined-by-dashes.
+
+function spinalCase(str){
+    //variable for white space and underscores
+    var regex = /\s+|_+/g;
+    
+    //replace low-upper case to low-space-uppercase
+    str = str.replace(/([a-z])([A-Z])/g, '$1 $2');
+    
+    //replace space and underscore with dash 
+    return str.replace(regex, '-').toLowerCase();
+};
+console.log(spinalCase('AllThe-small Things'));
+
+
+
+
+//Pig Latin
+//Translate the provided string to pig latin.
+
+function translatePigLatin(str){
+    //empty string to hold pig word
+    var pigLatin = '';
+    //regular expression to search for vowels
+    var regex = /[aeiou]/gi;
+    
+    //check if first character is a vowel. if true, add 'way' to the end
+    if (str[0].match(regex)){
+        pigLatin = str + 'way';
+    }else if (str.match(regex) === null){
+        //check if string is only consonants
+        pigLatin = str + 'ay';
+    }else{
+        //find how many consants before the first vowel
+        var vowelIndice = str.indexOf(str.match(regex)[0]);
+        
+        //start string with first vowel to the end, add consonants that were skipped, add ending
+        pigLatin = str.substr(vowelIndice) + str.substr(0, vowelIndice) + 'ay';
+    }
+    return pigLatin;
+}
+console.log(translatePigLatin('glv'));
+
+
+
+
+//Search and Replace
+//Perform a search and replace on the sentence using the arguments provided and return the new sentence.
+
+function myReplace(str, before, after){
+    //find index of before in str
+    var index = str.indexOf(before);
+    
+    //check if first letter is capitalised
+    if (str[index] === str[index].toUpperCase()){
+        //change first letter of after to uppercase
+        after = after.charAt(0).toUpperCase() + after.slice(1);
+    }
+    //replace before with after
+    str = str.replace(before, after);
+    return str;
+}
+console.log(myReplace("He is Sleeping on the couch", "Sleeping", "sitting"));
