@@ -415,7 +415,15 @@ Nothing to show for today
 
 **Link(s) to work** [Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
 
-### Day 22 2/1/18
+### Day 25 10/1/18
+
+**Today's Progress**: Did 3 more algorithm challenges
+
+**Thoughts** 
+
+**Link(s) to work** [Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
+
+### Day 25 10/1/18
 
 **Today's Progress**: 
 
