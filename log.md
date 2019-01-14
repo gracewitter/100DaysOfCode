@@ -423,7 +423,16 @@ Nothing to show for today
 
 **Link(s) to work** [Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
 
-### Day 25 10/1/18
+### Day 26 14/1/18
+
+**Today's Progress**: Finished 4 algorithm challenges and 3 bootstrap lessons 
+
+**Thoughts** [Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
+[WebDev-Bootstrap](https://github.com/gracewitter/100DaysOfCode/blob/master/webDebCourse-bootstrap.html.html)
+
+**Link(s) to work** 
+
+### Day 26 14/1/18
 
 **Today's Progress**: 
 
