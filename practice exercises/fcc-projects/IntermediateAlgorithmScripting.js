@@ -133,3 +133,107 @@ function myReplace(str, before, after){
     return str;
 }
 console.log(myReplace("He is Sleeping on the couch", "Sleeping", "sitting"));
+
+
+
+
+//DNA Pairing
+//The DNA strand is missing the pairing element. Take each character, get its pair, and return the results as a 2d array.
+
+function pairElement(str){
+    //create object for pair lookup
+    var pairs = {
+        'A' : 'T',
+        'T' : 'A',
+        'C' : 'G',
+        'G' : 'C'
+    }
+    
+    //split str into array of characters
+    var arr = str.split('');
+    
+    //map each character in arr to an array with the charater and its matching pair
+    return arr.map(x => [x, pairs[x]]);
+}
+console.log(pairElement("TTGAG"));
+
+
+
+
+//Missing letters
+//Find the missing letter in the passed letter range and return it.
+
+function fearNotLetter(str){
+    //store character code for first missing letter in the string and store whatever missing letters we find
+    var compare = str.charCodeAt(0), missing;
+    
+    //turn the string into an array and map through it comparing the character code with what should be in that index
+    str.split('').map(function(letter,index){
+        //if the current letter matches, move the comparison variable to the next position
+        if (str.charCodeAt(index) === compare){
+            ++compare;
+        }else {
+            //if no match, missing letter will be assigned to missing variable and returned
+            missing = String.fromCharCode(compare);
+        }
+    });
+    return missing;
+}
+console.log(fearNotLetter('abcdefghijklmnopqrstuvwxyz'))
+
+
+
+
+//Sorted Union
+//Write a function that takes two or more arrays and returns a new array of unique values in the order of the original provided arrays.
+
+function uniteUnique(arr){
+    var finalArray = [];
+    var args = [...arguments];
+    
+    //loop through arguments object in outer loop
+    for (var i = 0; i < args.length; i++){
+        //loop through individual array elements
+        for (var j = 0; j < args[i].length; j++){
+            //add element if it doesn't already exist in finalArray
+            if(!finalArray.includes(args[i][j])){
+                finalArray.push(args[i][j]);
+            }
+        }
+    }
+    return finalArray;
+}
+console.log(uniteUnique([1, 2, 3], [5, 2, 1, 4], [2, 1], [6, 7, 8]))
+
+
+
+
+//Convert HTML Entities
+//Convert the characters &, <, >, " (double quote), and ' (apostrophe), in a string to their corresponding HTML entities.
+
+function convertHTML(str){
+    var arr = str.split('');
+    
+    for (var i = 0; i < arr.length; i++){
+        switch (arr[i]){
+            case '<':
+                arr[i] = '&lt;';
+                break;
+            case '&':
+                arr[i] = '&amp;';
+                break;
+            case '>':
+                arr[i] = '&gt;';
+                break;
+            case '"':
+                arr[i] = '&quot;';
+                break;
+            case "'":
+                arr[i] = '&apos;';
+                break;
+        }
+    }
+    arr = arr.join('');
+    return arr;
+}
+console.log(convertHTML("Hamburgers < Pizza < Tacos"));
