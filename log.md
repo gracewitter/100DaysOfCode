@@ -432,10 +432,21 @@ Nothing to show for today
 
 **Link(s) to work** 
 
-### Day 26 14/1/18
+### Day 27 15/1/18
+
+**Today's Progress**: Finished 2 alrogithm challenges and 4 bootstrap lessons
+
+**Thoughts** 
+
+**Link(s) to work** [Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
+[WebDev-Bootstrap](https://github.com/gracewitter/100DaysOfCode/blob/master/webDebCourse-bootstrap.html)
+[TinDog index](https://github.com/gracewitter/100DaysOfCode/blob/master/TinDog-index.html)
+[TinDog styles](https://github.com/gracewitter/100DaysOfCode/blob/master/Tin-Dog-styles.css)
+
+### Day 27 15/1/18
 
 **Today's Progress**: 
 
 **Thoughts** 
 
-**Link(s) to work** 
+**Link(s) to work**
