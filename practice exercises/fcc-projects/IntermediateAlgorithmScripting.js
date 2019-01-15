@@ -237,3 +237,97 @@ function convertHTML(str){
     return arr;
 }
 console.log(convertHTML("Hamburgers < Pizza < Tacos"));
+
+//Sum All Odd Fibonacci Numbers
+//Given a positive integer num, return the sum of all odd Fibonacci numbers that are less than or equal to num.
+
+function sumFibs(num){
+    //variables for current and previous numbers and result
+    let prevNumber = 0;
+    let currNumber = 1;
+    let result = 0;
+    
+    while (currNumber <= num){
+        //use modulo to check if odd or even. add to result if even
+        if (currNumber % 2 !== 0){
+            result += currNumber;
+        }
+        currNumber += prevNumber;
+        prevNumber = currNumber - prevNumber;
+    }
+    return result;
+}
+console.log(sumFibs(75024));
+
+
+
+
+//Sum All Primes
+//Sum all the prime numbers up to and including the provided number.
+
+function sumPrimes(num){
+    //function to check if num is prime
+    function isPrime(number){
+        for (i = 2; i <= number; i++){
+            if (number % i === 0 && number !=i){
+                //return true if divisible by any number not itself
+                return false;
+            }
+        }
+        return true;
+    }
+    //1 is not prime, return 0
+    if (num === 1){
+        return 0;
+    }
+    //check if number is not prime
+    if(isPrime(num) === false){
+        //if not prime, check next number down from max number, don't add anything to answer
+        return sumPrimes(num-1);
+    }else{
+        //if it is prime, add number to next number in sequence through recursive call to sumPrimes func
+        return num + sumPrimes(num-1)
+    }
+}
+console.log(sumPrimes(977))
+
+
+
+
+//Smallest Common Multiple
+//Find the smallest common multiple of the provided parameters that can be evenly divided by both, as well as by all sequential numbers in the range between these parameters.
+
+function smallestCommons(arr){
+    //sort array from greatest to least
+    arr.sort(function(a,b){
+        return b - a;
+    });
+    
+    //create new array and use descending for loop to add all numbers greatest to smallest into the array
+    var newArr = [];
+    for (var i = arr[0]; i >= arr[1]; i--){
+        newArr.push(i);
+    }
+    
+    //smallest common multiple
+    var quot = 0;
+    //loop number we're checking
+    var loop = 1;
+    //index of the array of numbers
+    var n;
+    
+    //run while n != array length
+    do{
+        //multiply very first number * number of loops * second number
+        quot = newArr[0] * loop * newArr[1];
+        for (n = 2; n < newArr.length; n++){
+            if (quot % newArr[n] !== 0){
+                //stop loop if quot not even
+                break;
+            }
+        }
+        loop++;
+    } while (n !== newArr.length);
+    return quot;
+}
+console.log(smallestCommons([23, 18]));
