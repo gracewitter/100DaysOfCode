@@ -443,10 +443,29 @@ Nothing to show for today
 [TinDog index](https://github.com/gracewitter/100DaysOfCode/blob/master/TinDog-index.html)
 [TinDog styles](https://github.com/gracewitter/100DaysOfCode/blob/master/Tin-Dog-styles.css)
 
-### Day 27 15/1/18
+### Day 28 16/1/18
 
-**Today's Progress**: 
+**Today's Progress**: Did some more argorithms
 
 **Thoughts** 
 
-**Link(s) to work**
+**Link(s) to work**[Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
+
+### Day 29 17/1/18
+
+**Today's Progress**: finished algorithms, finished bootstrap section 1 in web dev course
+
+**Thoughts** 
+
+**Link(s) to work** [Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
+[TinDog index](https://github.com/gracewitter/100DaysOfCode/blob/master/TinDog-index.html)
+[TinDog styles](https://github.com/gracewitter/100DaysOfCode/blob/master/Tin-Dog-styles.css)
+
+
+### Day 30 18/1/18
+
+**Today's Progress**: Finished advanced algorithms and got JS certificate
+
+**Thoughts** I'm so glad that's finished! the algorithm projects were hard work. I don't exactly feel much more confident in my abilites using JS in a front end role, but I'm really happy I finished that whole module
+
+**Link(s) to work**[Algorithms and Data Structures](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/algorithmsAndDataStructuresProjects.js)
