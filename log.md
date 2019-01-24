@@ -469,3 +469,19 @@ Nothing to show for today
 **Thoughts** I'm so glad that's finished! the algorithm projects were hard work. I don't exactly feel much more confident in my abilites using JS in a front end role, but I'm really happy I finished that whole module
 
 **Link(s) to work**[Algorithms and Data Structures](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/algorithmsAndDataStructuresProjects.js)
+
+### Day 31 24/1/18
+
+**Today's Progress**: 1 hour of bootcamp 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 31 24/1/18
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
