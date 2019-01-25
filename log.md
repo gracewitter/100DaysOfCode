@@ -478,7 +478,15 @@ Nothing to show for today
 
 **Link(s) to work**
 
-### Day 31 24/1/18
+### Day 32 25/1/18
+
+**Today's Progress**: Finished 5 Sections of Bootcamp
+
+**Thoughts** 
+
+**Link(s) to work**[TinDog](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/TinDog)
+
+### Day 32 25/1/18
 
 **Today's Progress**: 
 
