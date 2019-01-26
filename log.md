@@ -6,13 +6,13 @@
 
 **Thoughts:** I feel happy starting this challenge. It feels so good figuring out the challenges
 
-**Link to work:** [The odin project exercises](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/TOP-fundamentals-1.html) 
+**Link to work:** [The odin project exercises](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/TOP-fundamentals-1.html)
 
 ### Day 2 6/10/18
 
 **Today's Progress**: 2 CodeCademy lessons, Applied Visual Design on freecodecamp, lesson 2 in TOP, sales receipt program from Duckett book, anki deck
 
-**Thoughts**: Very happy with all i did today. I had a few moments that i found very confusing but worked through them without needing the solution, especially happy with the sales receipt program 
+**Thoughts**: Very happy with all i did today. I had a few moments that i found very confusing but worked through them without needing the solution, especially happy with the sales receipt program
 **Link(s) to work**: [Sales Receipt App](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/duckett-%20ch2-ex.html)
 
 
@@ -65,7 +65,7 @@ Nothing to show for today
 
 **Today's Progress**: Skipped work today. Was feeling too sick and tired to do anything.
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work**
 
@@ -91,7 +91,7 @@ Nothing to show for today
 
 **Today's Progress**: Finished anki decks, mostly finished survey form
 
-**Thoughts** getting the javascript to work was tricky for me and I had to go back to the tutorial quite a lot, but i'm happy with it. just have to finish the styles now 
+**Thoughts** getting the javascript to work was tricky for me and I had to go back to the tutorial quite a lot, but i'm happy with it. just have to finish the styles now
 
 **Link(s) to work**
 [FCC Survey Form Project](https://codepen.io/gracewitter/pen/pxWgBJ)
@@ -100,7 +100,7 @@ Nothing to show for today
 
 **Today's Progress**: Finished anki decks, survey form, codecademy lesson
 
-**Thoughts** happy that the form is finally done and that I put in some solid work 
+**Thoughts** happy that the form is finally done and that I put in some solid work
 
 **Link(s) to work**
 [FCC Survey Form Project](https://codepen.io/gracewitter/pen/pxWgBJ)
@@ -109,7 +109,7 @@ Nothing to show for today
 
 **Today's Progress**: Finished anki decks, codecademy lesson, planned out landing page, got stuck on responsive menu
 
-**Thoughts** I'm frustrated that my menu isn't working; the links don't display when you click on the icon, but i'm sure i'll have it up and running soon 
+**Thoughts** I'm frustrated that my menu isn't working; the links don't display when you click on the icon, but i'm sure i'll have it up and running soon
 
 **Link(s) to work**
 [FCC Product Landing Page](https://codepen.io/gracewitter/pen/QZmwdg)
@@ -145,7 +145,7 @@ Nothing to show for today
 
 **Today's Progress**: Finished anki decks, started working on tech documentation page, made 2 pull requests for hacktoberfest
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work**
 
@@ -153,7 +153,7 @@ Nothing to show for today
 
 **Today's Progress**: Finished anki decks, did some more work on tech documentation page, made 2 more pull requests for hacktoberfest
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work**
 
@@ -167,27 +167,27 @@ Nothing to show for today
 
 ### Day 20 24/10/18
 
-**Today's Progress**: 
+**Today's Progress**:
 
-**Thoughts** 
+**Thoughts**
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 21 25/10/18
 
-**Today's Progress**: 
+**Today's Progress**:
 
-**Thoughts** 
+**Thoughts**
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 22 26/10/18
 
-**Today's Progress**: 
+**Today's Progress**:
 
-**Thoughts** 
+**Thoughts**
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 23 27/10/18
 
@@ -204,7 +204,7 @@ Nothing to show for today
 
 **Thoughts** Really wasn't too impressed with the last few lessons, i can't explain what they were even about. I'm glad i'm done, now I can shift my focus to building projects
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 25 29/10/18
 
@@ -218,7 +218,7 @@ Nothing to show for today
 
 **Today's Progress**: Worked through a few examples in the odin project
 
-**Thoughts** I made really slow progress today, my mind just felt so dense. I'm happy that I stayed disciplined and put in my hour anyway though 
+**Thoughts** I made really slow progress today, my mind just felt so dense. I'm happy that I stayed disciplined and put in my hour anyway though
 
 **Link(s) to work** [repeatString](https://github.com/gracewitter/javascript-exercises/blob/b6a347d859bc670b7c4802bb809c72a20dbb22f3/repeatString/repeatString.js)
 
@@ -226,7 +226,7 @@ Nothing to show for today
 
 **Today's Progress**: 30 mins of FCC javascript, most of the day spent going through W3C School's Bootstrap 3 course
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work** [Bootstrap 3 practice template](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/Bootstrap-3-Template.html)
 
@@ -234,7 +234,7 @@ Nothing to show for today
 
 **Today's Progress**: Finished FCC Basic JS module, practiced more bootstrap, made a countdown timer in JS
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work** [countdown timer](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/countdown-timer.html)
 
@@ -260,29 +260,29 @@ Nothing to show for today
 
 **Thoughts** Was very confused with a few of the deconstructing objects problems, but was happy that I worked out the solution
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 6 9/12/18
 
 **Today's Progress**: Worked through ES6 examples on FCC
 
-**Thoughts** 
+**Thoughts**
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 7 10/12/18
 
 **Today's Progress**: Worked through ES6 examples on FCC, did lots of practice with ACF
 
-**Thoughts** 
+**Thoughts**
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 8 11/12/18
 
 **Today's Progress**: Finished ES6 section and now working through regex, did some practice with bootstrap grid
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work** [bootstrap grid practice](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/bootstrap3practice.html)
 
@@ -298,15 +298,15 @@ Nothing to show for today
 
 **Today's Progress**: Had some practice with mobile menu animations, lots of bootstrap practice, did some debugging on fcc
 
-**Thoughts** 
+**Thoughts**
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 11 14/12/18
 
 **Today's Progress**: Worked on making a responsive timeline with modals
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work** [kinesis timeline](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/horizontal-timeline.html)
 
@@ -314,23 +314,23 @@ Nothing to show for today
 
 **Today's Progress**: Reviewed git with the tower course
 
-**Thoughts** 
+**Thoughts**
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 13 16/12/18
 
 **Today's Progress**: Finished git course
 
-**Thoughts** 
+**Thoughts**
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 14 17/12/18
 
 **Today's Progress**: daughter was in hospital, no work today
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work**
 
@@ -338,7 +338,7 @@ Nothing to show for today
 
 **Today's Progress**: finished dubugging module on FCC, moved on to basic data structures. made the blog and portfolio templates with BS3
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work** [BS3 Blog Template](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/BS-template-blog.html}
 [BS3 Portfolio template](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/BS-template-portfolio.html)
@@ -349,11 +349,11 @@ Nothing to show for today
 
 **Thoughts** I was so so tired tonight and was ready to skip this, but decided to set a timer anyway. i'm really happy i got my hour in today
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 17 20/12/18
 
-**Today's Progress**: Made a mobile menu close on click with animation 
+**Today's Progress**: Made a mobile menu close on click with animation
 
 **Thoughts** This was something I had to do for work and it took me lots of troubleshooting to do it. Mobile menus definitely used to be something that inimidated me a year ago, I'm so proud of how far I've come
 
@@ -361,7 +361,7 @@ Nothing to show for today
 
 ### Day 18 29/12/18
 
-**Today's Progress**: Finished Bootstrap and Basic Algorithms sections in FCC 
+**Today's Progress**: Finished Bootstrap and Basic Algorithms sections in FCC
 
 **Thoughts** I missed quite a few days because of the holidays and poor mental health. I want to pick up right where I left off instead of resetting so that hopefully my brain won't see these gaps as a scary thing to overcome
 
@@ -371,7 +371,7 @@ Nothing to show for today
 
 **Today's Progress**: Finished FCC jQuery section, halfway through object oriented programming section
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work** [object oriented programming](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/FCC-object-orientated-programming.html)
 
@@ -389,7 +389,7 @@ Nothing to show for today
 
 **Thoughts** The sass section was very light, i'll definitely need extra work on that
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 22 2/1/18
 
@@ -397,7 +397,7 @@ Nothing to show for today
 
 **Thoughts** i don't really understand these things even after passing the challenges, i'll have to go back and do more projects
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 23 8/1/18
 
@@ -405,7 +405,7 @@ Nothing to show for today
 
 **Thoughts** Took a few days off because I was very sick and kept falling asleep early
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 24 9/1/18
 
@@ -419,24 +419,24 @@ Nothing to show for today
 
 **Today's Progress**: Did 3 more algorithm challenges
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work** [Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
 
 ### Day 26 14/1/18
 
-**Today's Progress**: Finished 4 algorithm challenges and 3 bootstrap lessons 
+**Today's Progress**: Finished 4 algorithm challenges and 3 bootstrap lessons
 
 **Thoughts** [Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
 [WebDev-Bootstrap](https://github.com/gracewitter/100DaysOfCode/blob/master/webDebCourse-bootstrap.html.html)
 
-**Link(s) to work** 
+**Link(s) to work**
 
 ### Day 27 15/1/18
 
 **Today's Progress**: Finished 2 alrogithm challenges and 4 bootstrap lessons
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work** [Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
 [WebDev-Bootstrap](https://github.com/gracewitter/100DaysOfCode/blob/master/webDebCourse-bootstrap.html)
@@ -447,7 +447,7 @@ Nothing to show for today
 
 **Today's Progress**: Did some more argorithms
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work**[Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
 
@@ -455,7 +455,7 @@ Nothing to show for today
 
 **Today's Progress**: finished algorithms, finished bootstrap section 1 in web dev course
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work** [Intermediate Algorithm Scripting](https://github.com/gracewitter/100DaysOfCode/blob/master/practice%20exercises/fcc-projects/IntermediateAlgorithmScripting.js)
 [TinDog index](https://github.com/gracewitter/100DaysOfCode/blob/master/TinDog-index.html)
@@ -472,9 +472,9 @@ Nothing to show for today
 
 ### Day 31 24/1/18
 
-**Today's Progress**: 1 hour of bootcamp 
+**Today's Progress**: 1 hour of bootcamp
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work**
 
@@ -482,14 +482,22 @@ Nothing to show for today
 
 **Today's Progress**: Finished 5 Sections of Bootcamp
 
-**Thoughts** 
+**Thoughts**
+
+**Link(s) to work**[TinDog](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/TinDog)
+
+### Day 33 26/1/18
+
+**Today's Progress**: Finished Bootstrap section of the WebDev bootcamp
+
+**Thoughts** That was a lot of fun, I really enjoyed how that course progressed
 
 **Link(s) to work**[TinDog](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/TinDog)
 
 ### Day 32 25/1/18
 
-**Today's Progress**: 
+**Today's Progress**:
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work**
