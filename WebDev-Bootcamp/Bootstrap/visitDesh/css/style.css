@@ -1,0 +1,8 @@
+div{
+  border:1px solid;
+}
+/* Title Section */
+#title{
+  background-image: url(../images/title-image.jpg);
+  background-size: cover;
+}

@@ -494,10 +494,18 @@ Nothing to show for today
 
 **Link(s) to work**[TinDog](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/TinDog)
 
-### Day 32 25/1/18
+### Day 34 27/1/18
 
-**Today's Progress**:
+**Today's Progress**: Spent a lot of time planning out the visit Bangladesh site
 
 **Thoughts**
 
-**Link(s) to work**
+**Link(s) to work**[Visit Bangladesh](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/visitDesh)
+
+### Day 35 28/1/18
+
+**Today's Progress**: Finished grid system for Visit Bangladesh
+
+**Thoughts**
+
+**Link(s) to work**[Visit Bangladesh](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/visitDesh)
