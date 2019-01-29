@@ -502,9 +502,17 @@ Nothing to show for today
 
 **Link(s) to work**[Visit Bangladesh](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/visitDesh)
 
-### Day 35 28/1/18
+### Day 36 29/1/18
 
-**Today's Progress**: Finished grid system for Visit Bangladesh
+**Today's Progress**: Finished grid system for Visit Bangladesh, 30 minutes of bootcamp
+
+**Thoughts**
+
+**Link(s) to work**[Visit Bangladesh](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/visitDesh)
+
+### Day 36 29/1/18
+
+**Today's Progress**: Finished title section for Visit Bangladesh
 
 **Thoughts**
 
