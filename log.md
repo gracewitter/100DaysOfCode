@@ -510,10 +510,28 @@ Nothing to show for today
 
 **Link(s) to work**[Visit Bangladesh](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/visitDesh)
 
-### Day 36 29/1/18
+### Day 37 30/1/18
 
-**Today's Progress**: Finished title section for Visit Bangladesh
+**Today's Progress**: 1 hour of bootcamp, more work on visit Bangladesh
 
 **Thoughts**
 
 **Link(s) to work**[Visit Bangladesh](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/visitDesh)
+[Bootcamp Intro to JS]()
+
+### Day 38 31/1/18
+
+**Today's Progress**: Finished Section 8 of bootcamp
+
+**Thoughts**
+
+**Link(s) to work**[Visit Bangladesh](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/visitDesh)
+[Bootcamp Intro to JS]()
+
+### Day 38 31/1/18
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**

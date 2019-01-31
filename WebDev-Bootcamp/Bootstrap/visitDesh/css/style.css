@@ -21,7 +21,11 @@ h1,h2,h3,h4,h5,h6{
 }
 .quote-box-white{
   background-color: #fff;
-  color: #44633f
+  color: #44633f;
+  padding-left:7%
+}
+.img-section{
+  padding-top: 7%
 }
 
 /* Navigation Bar */
@@ -64,11 +68,11 @@ h1,h2,h3,h4,h5,h6{
 }
 .title-text h1{
   text-align: left;
-  text-shadow: 2px 2px #fff;
   font-size: 8vw;
+  color: #f2f1ef;
+  font-weight: lighter;
 }
 .hero-heading{
-  font-weight: 900;
   font-style: italic;
   letter-spacing: 5px;
   margin-top: 10%;
@@ -79,8 +83,10 @@ h1,h2,h3,h4,h5,h6{
   margin-top: 0;
 }
 
-
-
+/* Section 1 */
+#section-1 .quote-box-white{
+font-size: 10vw
+}
 
 
 
@@ -97,6 +103,10 @@ h1,h2,h3,h4,h5,h6{
   }
   .nav-link{
     text-align: right
+  }
+  .hero-heading,
+  .title-text h1:last-child{
+    margin-left: 0
   }
 
 }
