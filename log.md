@@ -525,12 +525,19 @@ Nothing to show for today
 
 **Thoughts**
 
-**Link(s) to work**[Visit Bangladesh](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/visitDesh)
-[Bootcamp Intro to JS]()
+**Link(s) to work**[Bootcamp Intro to JS]()
 
-### Day 38 31/1/18
+### Day 39 1/2/19
 
-**Today's Progress**: 
+**Today's Progress**: Finished Intermediate JS section of bootcamp
+
+**Thoughts**
+
+**Link(s) to work**[Bootcamp Intermediate JS]()
+
+### Day 39 1/2/19
+
+**Today's Progress**:
 
 **Thoughts**
 
