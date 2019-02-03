@@ -535,7 +535,16 @@ Nothing to show for today
 
 **Link(s) to work**[Bootcamp Intermediate JS]()
 
-### Day 39 1/2/19
+### Day 40 2/2/19
+
+**Today's Progress**: Finished DOM section and Dice Game from bootcamp
+
+**Thoughts** The dice game was really fun, it felt great being able to build on my own without any hints
+
+**Link(s) to work**[Bootcamp Intermediate JS]()
+[Dice Game]()
+
+### Day 41 3/2/19
 
 **Today's Progress**:
 
