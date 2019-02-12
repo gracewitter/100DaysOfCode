@@ -550,15 +550,15 @@ Nothing to show for today
 
 **Thoughts**
 
-**Link(s) to work**[Drum Kit]()
+**Link(s) to work**[Drum Kit](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/JS/Drum%20Kit)
 
 ### Day 42 12/2/19
 
-**Today's Progress**: Finished jQuery section of Bootcamp
+**Today's Progress**: Finished jQuery section of Bootcamp and Simon Game
 
 **Thoughts**
 
-**Link(s) to work**
+**Link(s) to work**[Simon](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/JS/Simon%20Game%20Challenge)
 
 ### Day 41 11/2/19
 
