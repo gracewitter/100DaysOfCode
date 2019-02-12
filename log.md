@@ -517,7 +517,7 @@ Nothing to show for today
 **Thoughts**
 
 **Link(s) to work**[Visit Bangladesh](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/Bootstrap/visitDesh)
-[Bootcamp Intro to JS]()
+[Bootcamp Intro to JS](https://github.com/gracewitter/100DaysOfCode/blob/master/WebDev-Bootcamp/JS/introToJS.js)
 
 ### Day 38 31/1/18
 
@@ -525,7 +525,7 @@ Nothing to show for today
 
 **Thoughts**
 
-**Link(s) to work**[Bootcamp Intro to JS]()
+**Link(s) to work**[Bootcamp Intro to JS](https://github.com/gracewitter/100DaysOfCode/blob/master/WebDev-Bootcamp/JS/introToJS.js)
 
 ### Day 39 1/2/19
 
@@ -533,7 +533,7 @@ Nothing to show for today
 
 **Thoughts**
 
-**Link(s) to work**[Bootcamp Intermediate JS]()
+**Link(s) to work**[Bootcamp Intermediate JS](https://github.com/gracewitter/100DaysOfCode/blob/master/WebDev-Bootcamp/JS/IntermediateJS.js)
 
 ### Day 40 2/2/19
 
@@ -541,10 +541,26 @@ Nothing to show for today
 
 **Thoughts** The dice game was really fun, it felt great being able to build on my own without any hints
 
-**Link(s) to work**[Bootcamp Intermediate JS]()
-[Dice Game]()
+**Link(s) to work**[Bootcamp Intermediate JS](https://github.com/gracewitter/100DaysOfCode/blob/master/WebDev-Bootcamp/JS/IntermediateJS.js)
+[Dice Game](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/JS/Dicee%20Challenge%20-%20Starting%20Files)
 
-### Day 41 3/2/19
+### Day 41 11/2/19
+
+**Today's Progress**: Finished Drum Kit and advanced JS section from bootcamp
+
+**Thoughts**
+
+**Link(s) to work**[Drum Kit]()
+
+### Day 42 12/2/19
+
+**Today's Progress**: Finished jQuery section of Bootcamp
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 41 11/2/19
 
 **Today's Progress**:
 
