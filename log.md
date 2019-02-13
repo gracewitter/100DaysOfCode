@@ -560,7 +560,15 @@ Nothing to show for today
 
 **Link(s) to work**[Simon](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/JS/Simon%20Game%20Challenge)
 
-### Day 41 11/2/19
+### Day 43 13/2/19
+
+**Today's Progress**:Installed Node.js and explored npm a little bit
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day
 
 **Today's Progress**:
 
