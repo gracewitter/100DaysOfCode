@@ -1,4 +1,4 @@
-git checkout c1
+ggit checkout c1
 git  checkout master
 git commit
 git checkout c2
@@ -45,3 +45,26 @@ git push
 
 git pull --rebase
 git push
+
+
+git checkout -b foo origin master
+git pull
+
+git checkout -b foo o/master
+git commit
+git push
+
+git branch -u o/master foo
+git commit
+git push
+
+git push origin foo^:master
+
+git fetch origin foo
+
+git push origin :foo
+
+git fetch origin :bar
+
+git pull origin master
+git pull origin master:foo
