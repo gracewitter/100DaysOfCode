@@ -1,0 +1,47 @@
+git checkout c1
+git  checkout master
+git commit
+git checkout c2
+git checkout master^
+
+git checkout c3
+git checkout HEAD^
+
+git checkout HEAD~4
+
+git branch -f master HEAD~3
+
+git reset HEAD~1
+
+git revert HEAD
+
+git cherry-pick c2 c4
+
+git rebase -i HEAD~4
+
+git rebase -i
+git commit --amend
+git rebase -i
+
+git tag v1 c1
+
+git checkout o/master
+git commit
+
+git fetch
+git merge origin master
+
+git pull
+
+git fakeTeamwork foo 3
+
+git fetch
+git rebase origin master
+git push
+
+git fetch 
+get merge origin master
+git push
+
+git pull --rebase
+git push

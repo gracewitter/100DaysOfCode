@@ -568,6 +568,30 @@ Nothing to show for today
 
 **Link(s) to work**[Node.js practice](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/node)
 
+### Day 44 14/2/19
+
+**Today's Progress**: Finished the Express.js section and made a back end BMI calculator
+
+**Thoughts**
+
+**Link(s) to work**[Node.js practice](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/node)
+
+### Day 45 15/2/19
+
+**Today's Progress**: Finished Git and version control section of bootcamp
+
+**Thoughts**
+
+**Link(s) to work** [Git practice]()
+
+### Day Day 45 17/2/19
+
+**Today's Progress**: Finished learngitbranching.js.org
+
+**Thoughts**
+
+**Link(s) to work** [Git practice]()
+
 ### Day
 
 **Today's Progress**:
