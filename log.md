@@ -592,6 +592,14 @@ Nothing to show for today
 
 **Link(s) to work** [Git practice](https://github.com/gracewitter/100DaysOfCode/blob/master/WebDev-Bootcamp/git/learnGitBranching.txt)
 
+### Day 46 18/2/2019
+
+**Today's Progress**: Practiced with APIs and JSON, made a bitcoin tracker
+
+**Thoughts**
+
+**Link(s) to work**[Bitcoin Tracker]()
+
 ### Day
 
 **Today's Progress**:
