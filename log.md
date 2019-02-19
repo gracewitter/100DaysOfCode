@@ -598,7 +598,16 @@ Nothing to show for today
 
 **Thoughts**
 
-**Link(s) to work**[Bitcoin Tracker]()
+**Link(s) to work**[Bitcoin Tracker](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/APIs/Bitcoin-Ticker)
+
+### Day 47 19/2/2019
+
+**Today's Progress**: More work on API section, made Bitcoin converter, started working on mailchimp signup form
+
+**Thoughts**
+
+**Link(s) to work**[Bitcoin Converter](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/APIs/Bitcoin-Ticker)
+[Newsletter Signup]()
 
 ### Day
 
