@@ -1,6 +1,7 @@
 body{
   font-family: 'Rubik', sans-serif;
-  text-align: center;
+  text-align: center;;
+  background-color: #FDFFFF;
 }
 h1,h2,h3,h4,h5,h6{
   font-family: 'Taviraj', serif;
@@ -20,9 +21,10 @@ h1,h2,h3,h4,h5,h6{
   color: white;
 }
 .quote-box-white{
-  background-color: #fff;
-  color: #44633f;
-  padding-left:7%
+  border: 5px solid #C7E7A3;
+  color: #265C00;
+  margin-right: 25px;
+  height: 300px
 }
 .img-section{
   padding-top: 7%
@@ -30,7 +32,7 @@ h1,h2,h3,h4,h5,h6{
 
 /* Navigation Bar */
 .navbar{
-  font-family: 'Taviraj', serif;
+  font-family: 'Rubik', serif;
 }
 .navbar a:hover{
   opacity: 0.5;
@@ -49,12 +51,37 @@ h1,h2,h3,h4,h5,h6{
   color: #fff !important;
   opacity: 1
 }
+.navbar-nav{
+  margin: 1.5rem 5rem;
+}
+.navbar-dark .navbar-nav .nav-link{
+  font-size: 18px;
+  font-weight: bold;
+  /* text-shadow: 1px 1px #333; */
+  letter-spacing: 4px;
+}
+.visit-btn{
+  border: 2px solid #D13525;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  /* text-shadow: 1px 1px #333; */
+  letter-spacing: 4px;
+  color: #fff;
+  background-color: #D13525;
+  padding: 15px 25px;
+}
+.visit-btn:hover{
+  opacity: .75;
+  color:#fff
+}
 
 
 /* Title Section */
 #title{
   background-image: url(../images/title-image.jpg);
   background-size: cover;
+  background-position: center;
   height: 100vh;
   padding: 1% 3% 7%;
   margin-bottom: 0
@@ -63,29 +90,30 @@ h1,h2,h3,h4,h5,h6{
   padding: 0;
 }
 .title-text{
-  margin-top: 2rem;
-
-}
-.title-text h1{
-  text-align: left;
-  font-size: 8vw;
-  color: #f2f1ef;
-  font-weight: lighter;
 }
 .hero-heading{
-  font-style: italic;
+  text-align: left;
+  font-size: 7vw;
+  color: #f2f1ef;
+  max-width: 800px;
+  font-weight: 300;
+  line-height: 1.25;
   letter-spacing: 5px;
-  margin-top: 10%;
   margin-left: 10%
 }
-.title-text h1:last-child{
-  margin-left: 20%;
-  margin-top: 0;
+.title-text button{
+  float: left;
+  margin-left: 10%;
+  margin-top: 5%;
 }
 
 /* Section 1 */
 #section-1 .quote-box-white{
-font-size: 10vw
+border:none;
+background-color: #C7E7A3
+}
+#section-1 .quote-box-white h2{
+  font-size: 3.5rem;
 }
 
 
