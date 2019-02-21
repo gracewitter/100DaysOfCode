@@ -20,7 +20,7 @@ app.post("/", function(req, res){
     url: "https://us16.api.mailchimp.com/3.0/lists/72d3d85539",
     method: "POST",
     headers: {
-      "Authorization": "grace1 febfb6e1fbee8668c122e43e68b09977-us16"
+      // "Authorization": "grace1 febfb6e1fbee8668c122e43e68b09977-us16"
     }
   }
 
