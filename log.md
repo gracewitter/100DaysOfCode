@@ -607,7 +607,15 @@ Nothing to show for today
 **Thoughts**
 
 **Link(s) to work**[Bitcoin Converter](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/APIs/Bitcoin-Ticker)
-[Newsletter Signup]()
+[Newsletter Signup](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/APIs/Newsletter-Signup)
+
+### Day 48 21/2/2019
+
+**Today's Progress**: Finished API section and launched newsletter signup web app on heroku
+
+**Thoughts**
+
+**Link(s) to work** [Newsletter Signup](https://glacial-wildwood-16011.herokuapp.com/)
 
 ### Day
 

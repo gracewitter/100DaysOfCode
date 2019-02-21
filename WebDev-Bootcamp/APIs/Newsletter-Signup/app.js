@@ -16,24 +16,48 @@ app.post("/", function(req, res){
   var lastName = req.body.lName;
   var email = req.body.email;
 
+  var data = {
+    members: [
+      {
+        email_address: email,
+        status: "subscribed",
+        merge_fields: {
+          FNAME: firstName,
+          LNAME: lastName,
+        }
+      }
+    ]
+  };
+
+  var jsonData = JSON.stringify(data);
+
   var options = {
     url: "https://us16.api.mailchimp.com/3.0/lists/72d3d85539",
     method: "POST",
     headers: {
-      // "Authorization": "grace1 febfb6e1fbee8668c122e43e68b09977-us16"
-    }
-  }
+      "Authorization": "grace1 ced70ad004064aeaed0827dbbfca5be7-us16"
+    },
+    body: jsonData
+  };
 
   request(options, function(error, response, body){
     if (error){
-      console.log(error);
+      res.sendFile(__dirname + "/failure.html");
     }else{
-      console.log(response.statusCode);
+      if (response.statusCode === 200){
+        res.sendFile(__dirname + "/success.html");
+      }else {
+          res.sendFile(__dirname + "/failure.html");
+      }
     }
   })
+});
+
+app.post("/failure", function(req, res){
+  res.redirect("/");
 })
 
-app.listen(3000, function() {
+app.listen(process.env.PORT || 3000, function() {
   console.log("Server is running on port 3000")
 });
 
