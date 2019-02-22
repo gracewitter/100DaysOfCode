@@ -617,6 +617,14 @@ Nothing to show for today
 
 **Link(s) to work** [Newsletter Signup](https://glacial-wildwood-16011.herokuapp.com/)
 
+### Day 49 22/2/2019
+
+**Today's Progress**: Started Working through EJS section and made my first ejs template
+
+**Thoughts**
+
+**Link(s) to work**[EJS Practice]()
+
 ### Day
 
 **Today's Progress**:
