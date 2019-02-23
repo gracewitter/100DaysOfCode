@@ -623,7 +623,15 @@ Nothing to show for today
 
 **Thoughts**
 
-**Link(s) to work**[EJS Practice]()
+**Link(s) to work**[EJS Practice](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/ejs/todolist-v1)
+
+### Day 50 23/2/2019
+
+**Today's Progress**:can now pass dynamic data to the web app
+
+**Thoughts**
+
+**Link(s) to work**[To Do List](https://github.com/gracewitter/100DaysOfCode/tree/master/WebDev-Bootcamp/ejs/todolist-v1)
 
 ### Day
 

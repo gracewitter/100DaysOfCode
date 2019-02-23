@@ -7,13 +7,18 @@ h1,h2,h3,h4,h5,h6{
   font-family: 'Taviraj', serif;
 }
 
+.no-pad{
+  padding: 0
+}
+
 /* Headings */
 
 
 /* Containers */
-.container-fluid{
-  padding: 0;
+#section1{
+  margin-top: :2em ;
 }
+
 
 /* Sections */
 .quote-box{
@@ -23,11 +28,10 @@ h1,h2,h3,h4,h5,h6{
 .quote-box-white{
   border: 5px solid #C7E7A3;
   color: #265C00;
-  margin-right: 25px;
-  height: 300px
+  height: 300px;
 }
 .img-section{
-  padding-top: 7%
+
 }
 
 /* Navigation Bar */
@@ -83,6 +87,7 @@ h1,h2,h3,h4,h5,h6{
   background-size: cover;
   background-position: center;
   height: 100vh;
+  max-height: 1000px
   padding: 1% 3% 7%;
   margin-bottom: 0
 }
@@ -90,6 +95,7 @@ h1,h2,h3,h4,h5,h6{
   padding: 0;
 }
 .title-text{
+  margin-top: 25%;
 }
 .hero-heading{
   text-align: left;
@@ -103,7 +109,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .title-text button{
   float: left;
-  margin-left: 10%;
+  margin-left: 11%;
   margin-top: 5%;
 }
 
@@ -113,7 +119,22 @@ border:none;
 background-color: #C7E7A3
 }
 #section-1 .quote-box-white h2{
-  font-size: 3.5rem;
+  font-size: 3rem;
+  padding: 0 15px;
+  text-align: left;
+}
+
+/* Section 2 */
+.lg-box{
+  background-color: #265c00;
+}
+.box-txt h2{
+  line-height: 1.3;
+  font-size: 2.5em;
+  color: #b3de81;
+  font-weight: 900;
+  padding: 10px;
+  text-transform: capitalize;
 }
 
 
@@ -124,17 +145,8 @@ background-color: #C7E7A3
 
 /* Tablet */
 @media (max-width: 992px){
-  #title{
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100%
-  }
   .nav-link{
     text-align: right
-  }
-  .hero-heading,
-  .title-text h1:last-child{
-    margin-left: 0
   }
 
 }
